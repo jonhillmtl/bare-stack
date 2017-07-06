@@ -1,4 +1,3 @@
-import pprint
 import inspect
 
 def bare_stack():
