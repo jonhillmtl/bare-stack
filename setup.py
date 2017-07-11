@@ -7,5 +7,6 @@ setup(name='bare-stack',
       author_email='jon@jonhill.ca',
       url='https://github.com/jonhillmtl/bare-stack',
       packages = ['bare_stack'],
-      license='MIT'
+      license='MIT',
+      install_requires=['termcolor']
 )
